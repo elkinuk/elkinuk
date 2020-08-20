@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/elkinny">
+    <img src="https://raw.githubusercontent.com/elkinny/Curriculum-Vitae/master/ekins_logo.png" alt="Elkin" width="200">
+  </a>
+   <br>
+  <br>
+    Hi, my name is Victoria
+</h1>
 
-<!--
-**elkinny/elkinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">And I'm a Front-end developer</h4>
+<p align="center">Don't hezitate and visite my <a href="http://elkin.uk/">website</a> for more info about me and my work</p>
