@@ -8,4 +8,4 @@
 </h1>
 
 <h4 align="center">And I'm a Front-end developer</h4>
-<p align="center">Don't hezitate and visite my <a href="http://elkin.uk/">website</a> for more info about me and my work</p>
+<p align="center">Don't hezitate and visit my <a href="http://elkin.uk/">website</a> for more info about me and my work</p>
