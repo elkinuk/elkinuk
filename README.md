@@ -38,7 +38,7 @@
   </tr>
   <tr>
       <td align="center" width="33%">
-      <h3><a href="https://github.com/elkinny/React-Movies">React Movies</a></h3> <p>Aplication featiring most of the capabilities of React, Redux, Router and SSR (custom and with Next.js)</p>
+      <h3><a href="https://github.com/elkinny/React-Movies">React Movies</a></h3> <p>Aplication featuring most of the capabilities of React, Redux, Router and SSR (custom and with Next.js)</p>
     <a href="https://elkinny.github.io/React-Movies/">
       <img align="center" src="https://raw.githubusercontent.com/elkinny/NewsAPI/master/preview-btn.png" alt="Elkin" width="200">
     </a>
