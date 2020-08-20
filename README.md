@@ -30,7 +30,7 @@
     </td>
     <td align="center" width="33%">
       <h3><a href="https://github.com/elkinny/google">Google page</a></h3> <p>Simply a custom recreaton of the Google page. Internship project for some Digital Agency</p>
-    <a href="https://elkinny.github.io/NewsAPI/news-ng/index.html">
+    <a href="https://elkinny.github.io/google/">
       <img align="center" src="https://raw.githubusercontent.com/elkinny/NewsAPI/master/preview-btn.png" alt="Elkin" width="200">
     </a>
       <br><br>
